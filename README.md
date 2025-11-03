@@ -3,4 +3,4 @@ Simulación de proyecto SCRUM — Blog informativo sobre cuidado de mascotas.
 
 ## 📊 Tablero SCRUM (Sprint 1)
  
-./images/scrum-board-example.png
+![image](./images/scrum-board-example.png)
